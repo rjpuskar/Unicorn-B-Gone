@@ -1,2 +1,2 @@
 # Unicorn-B-Gone
-AKTA Unicorn alternate graphing method
+Cytiva Unicorn alternate graphing method, designed for AKTA FPLC systems
